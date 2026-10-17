@@ -1,0 +1,21 @@
+# Kreme questions. Format: Category | Question
+Science | Why is the sky blue but sunsets are red?
+Science | What would happen if the Moon disappeared?
+Science | How do birds know where to migrate?
+Science | Why can't we remember being babies?
+History | Why did the Roman Empire fall?
+History | How did people tell the time before clocks?
+History | What invention changed daily life the most?
+History | How were the pyramids built without machines?
+Philosophy | What is time, really?
+Philosophy | If you replace every part of a ship, is it still the same ship?
+Philosophy | Can a person be truly selfless?
+Philosophy | Is it possible to know anything for certain?
+Life | What small habit has made the biggest difference to you?
+Life | What would you do if you knew you couldn't fail?
+Life | What did you believe as a child that turned out to be wrong?
+Life | Who has taught you the most without knowing it?
+Technology | Will computers ever truly understand language?
+Technology | What everyday technology will look strange in 50 years?
+Technology | How does the internet actually reach your home?
+Technology | Should we be able to delete our data from the internet forever?
